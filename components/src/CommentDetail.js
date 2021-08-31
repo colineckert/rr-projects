@@ -1,7 +1,6 @@
 import React from 'react';
-import faker from 'faker';
 
-const CommentDetail = ({ author, timeAgo, commentText, avatar }) => {
+const CommentDetail = ({ author, timeAgo, content, avatar }) => {
   return (
     <div className="comment">
       <a href="/" className="avatar">
@@ -14,7 +13,7 @@ const CommentDetail = ({ author, timeAgo, commentText, avatar }) => {
         <div className="metadata">
           <span className="date">{timeAgo}</span>
         </div>
-        <div className="text">{commentText}</div>
+        <div className="text">{content}</div>
       </div>
     </div>
   );
