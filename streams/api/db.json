@@ -4,6 +4,11 @@
       "title": "testes",
       "description": "test strean",
       "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "Here is another stream",
+      "id": 2
     }
   ]
 }
