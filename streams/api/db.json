@@ -14,18 +14,6 @@
       "title": "I created this stream about refactoring",
       "description": "It has my user ID",
       "id": 3
-    },
-    {
-      "title": "Programmtic Navigation",
-      "description": "This will push the root route",
-      "userId": "106328729930600720651",
-      "id": 4
-    },
-    {
-      "title": "This change was made by a patch request",
-      "description": "Watch me refactor some components",
-      "userId": "106328729930600720651",
-      "id": 5
     }
   ]
 }
